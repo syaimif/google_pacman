@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        id          = "https://github.com/macek/google_pacman"
+        version     = "git"
+        height      = "200"
+        width       = "600">
+ 
+  <name short="Google Pacman">
+    Google Pacman
+  </name>
+
+  <description>
+    Google Pacman
+    -------------
+
+    This is a copy of Google's playable Pacman game logo hosted for
+    Pacman's 30th Anniversary.
+
+    With the help of StackOverflow users, we were able to get a playable
+    version working 100%.
+
+    To play a live version: http://macek.github.com/google_pacman/
+
+    Or download the source and run it offline.
+  </description>
+
+  <author href="http://google.com/">Google</author>
+
+  <icon src="blankon-pacman.svg"/>
+  <content src="index.html"/>
+
+  <license>
+    (c) 2010, Google
+  </license>
+</widget>
