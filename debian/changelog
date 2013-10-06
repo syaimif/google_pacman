@@ -1,3 +1,17 @@
+google-pacman (0.3) suroboyo; urgency=low
+
+  * relink target google.pacman.desktop
+  * config.xml resize 480x800
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 06 Oct 2013 13:00:51 +0000
+
+google-pacman (0.2) suroboyo; urgency=low
+
+  * debian/control used html5app 
+  * .desktop use html5app
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 06 Oct 2013 13:00:51 +0000
+
 google-pacman (0.1) rote; urgency=low
 
   * Initial release.
