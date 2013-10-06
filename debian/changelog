@@ -1,4 +1,4 @@
-google-pacman (0.3) suroboyo; urgency=low
+google-pacman (0.4) suroboyo; urgency=low
 
   * added debian/install config.xml
 
