@@ -1,9 +1,15 @@
 google-pacman (0.3) suroboyo; urgency=low
 
+  * added debian/install config.xml
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 07 Oct 2013 00:29:51 +0000
+
+google-pacman (0.3) suroboyo; urgency=low
+
   * relink target google.pacman.desktop
   * config.xml resize 480x800
 
- -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 06 Oct 2013 13:00:51 +0000
+ -- Mijortsa <azis astrojim@surabaya.di.blankon.in>  Sun, 06 Oct 2013 21:33:51 +0000
 
 google-pacman (0.2) suroboyo; urgency=low
 
