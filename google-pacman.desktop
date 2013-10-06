@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Pacman
 Comment=Clear hidden mines from a minefield
-Exec=/usr/bin/html5app /usr/share/google-pacman/index.html
+Exec=html5app /usr/share/google-pacman/
 Icon=blankon-pacman
 Terminal=false
 Type=Application
