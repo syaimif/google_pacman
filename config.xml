@@ -2,8 +2,8 @@
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         id          = "https://github.com/macek/google_pacman"
         version     = "git"
-        height      = "200"
-        width       = "600">
+        height      = "480"
+        width       = "800">
  
   <name short="Google Pacman">
     Google Pacman
