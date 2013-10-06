@@ -1,4 +1,5 @@
 index.html /usr/share/google-pacman
+config.xml /usr/share/google-pacman
 src /usr/share/google-pacman
 README /usr/share/doc/google-pacman
 blankon-pacman.svg /usr/share/pixmaps
