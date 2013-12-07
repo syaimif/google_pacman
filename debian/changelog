@@ -1,3 +1,9 @@
+google-pacman (0.5) suroboyo; urgency=low
+
+  * change html5app to maleo
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 07 Oct 2013 00:29:51 +0000
+
 google-pacman (0.4) suroboyo; urgency=low
 
   * added debian/install config.xml
