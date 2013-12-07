@@ -7,7 +7,7 @@ Build-Depends: cdbs, debhelper (>= 7.3.5)
 
 Package: google-pacman
 Architecture: all
-Depends: html5app 
+Depends: maleo
 Description: Google Pacman game 
  This is a copy of Google's playable Pacman game logo hosted for
  Pacman's 30th Anniversary.
