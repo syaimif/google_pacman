@@ -2,7 +2,7 @@
 Name=Pacman
 Comment=Clear hidden mines from a minefield
 Exec=maleo /usr/share/google-pacman/
-Icon=blankon-pacman
+Icon=google-pacman
 Terminal=false
 Type=Application
 Categories=GNOME;GTK;Game;LogicGame;
