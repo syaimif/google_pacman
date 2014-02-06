@@ -1,3 +1,9 @@
+google-pacman (0.7) suroboyo; urgency=low
+
+  * change debian/control depends html5app to maleo
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Thu, 06 Feb 2014 15:53:51 +0000
+ 
 google-pacman (0.6) suroboyo; urgency=low
 
   * change debian/control depends html5app to maleo
