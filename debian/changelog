@@ -1,3 +1,9 @@
+google-pacman (0.1) tambora; urgency=low
+
+  * First upload to tambora
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Wed, 05 Mar 2014 10:36:51 +0000
+ 
 google-pacman (0.7) suroboyo; urgency=low
 
   * change google-pacman.desktop icon blankon-pacman to google-pacman
